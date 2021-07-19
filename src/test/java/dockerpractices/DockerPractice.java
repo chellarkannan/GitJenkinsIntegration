@@ -31,5 +31,18 @@ public class DockerPractice {
 			e.printStackTrace();
 		}
 		
+		
+		int a=0;
+		switch(a) {
+		
+		case 0 : 
+			System.out.println(0);
+		default :
+			System.out.println(1);
+			break;
+		case 3 :
+			System.out.println(2);
+		}
+	
 	}
 }
