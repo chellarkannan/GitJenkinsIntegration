@@ -74,5 +74,6 @@ public class OrangeHRM_Practices {
 		}
 		driver.close();
 		driver.quit();
+		System.out.println("Test Run completed successfully");
 	}
 }
